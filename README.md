@@ -94,4 +94,4 @@ after running the command, a package.json file will automatically built in serve
 
 **ROUTE BUILDING**
 
-- We will do routing now for better understanding, which will help us to navigate easily btw the screens
+- We will do routing now to manage multiple requests
