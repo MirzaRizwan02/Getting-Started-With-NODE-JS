@@ -11,6 +11,7 @@ Nodejs is basically built to communicate with server which initially was not pos
 In your flutter project make a folder at root named as server, and initialize your node there, use terminal and in server directory run the initialization command
 
 <img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/npminit.png">
+
 **npm** stands for Node Package Manager
 
 after running the command, a package.json file will automatically built in server folder
@@ -48,7 +49,7 @@ after running the command, a package.json file will automatically built in serve
 
 - That would be the output we get on running index.js
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/3000.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/OUTPUT.png">
 
 - Installing another dependency i,e dev dependency that will help us to break the loop , when you will run the above code it will kept running and you have to terminate the whole process, so to avoid that we will be using **NODEMON DEPENDENCY**.
 
@@ -85,11 +86,11 @@ after running the command, a package.json file will automatically built in serve
 
 - Our Default Path will look like this removing the Cannot Get /
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Cannot.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/3000.png">
 
 - The /helloworld path
 
-![](RackMultipart20230528-1-eeua5b_html_4285ae45e58dfbe0.png)
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/hello%20world.png">
 
 **ROUTE BUILDING**
 
