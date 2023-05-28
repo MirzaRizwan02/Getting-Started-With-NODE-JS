@@ -1,6 +1,6 @@
 # Getting-Started-With-NODE-JS
 
-##**NODE JS WITH FLUTTER**
+##NODE JS WITH FLUTTER
 
 Nodejs is basically built to communicate with server which initially was not possible in JS, as JS was restricted to client side only.
 
