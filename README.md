@@ -10,7 +10,7 @@ Nodejs is basically built to communicate with server which initially was not pos
 
 In your flutter project make a folder at root named as server, and initialize your node there, use terminal and in server directory run the initialization command
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/npminit.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/npminit.png" width="300", height="150">
 
 ### npm stands for Node Package Manager
 
@@ -20,11 +20,11 @@ after running the command, a package.json file will automatically built in serve
 
   - You can try out a simple script to check if it is working fine or not
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/console.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/console.png" width="300", height="150">
 
   - Run the script by running a command in server
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/run.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/run.png" width="300", height="150">
 
 - Install the dependencies that you will need in the process
 
@@ -39,7 +39,7 @@ after running the command, a package.json file will automatically built in serve
 
   - You can add these dependencies simply by running simple command in server terminal
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/depend.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/depend.png" width="300", height="150">
 
 **Connection Building**
 
@@ -49,21 +49,21 @@ after running the command, a package.json file will automatically built in serve
 
 - That would be the output we get on running index.js
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/OUTPUT.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/OUTPUT.png" width="300", height="150">
 
 - Installing another dependency i,e dev dependency that will help us to break the loop , when you will run the above code it will kept running and you have to terminate the whole process, so to avoid that we will be using **NODEMON DEPENDENCY**.
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/nodemon.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/nodemon.png" width="300", height="150">
 
   - Now to activate the nodemon, you have to write a script in package.json
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/script.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/script.png" width="300", height="150">
 
 **Creating API**
 
 - Now we are creating our First API
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/API.png)">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/API.png)" >
 
 - Now go to your server terminal and run the command
 
