@@ -57,7 +57,7 @@ after running the command, a package.json file will automatically built in serve
 
   - Now to activate the nodemon, you have to write a script in package.json
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/script.png" width="300">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/script.png">
 
 **Creating API**
 
