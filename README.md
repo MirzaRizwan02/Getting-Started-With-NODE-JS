@@ -62,7 +62,7 @@ after running the command, a package.json file will automatically built in serve
 
 - Now we are creating our First API
 
-![](RackMultipart20230528-1-eeua5b_html_b1937be297bc9fcc.png)
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/2%20Get.png">
 
 - Now go to your server terminal and run the command
 
