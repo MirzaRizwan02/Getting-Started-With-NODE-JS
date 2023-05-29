@@ -45,7 +45,7 @@ after running the command, a package.json file will automatically built in serve
 
 - the below code is written to check if server is working or not in Index.js
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Connection.png" width="20%">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Connection.png" width="50%">
 
 - That would be the output we get on running index.js
 
