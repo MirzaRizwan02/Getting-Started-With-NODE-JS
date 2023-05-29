@@ -20,11 +20,11 @@ after running the command, a package.json file will automatically built in serve
 
   - You can try out a simple script to check if it is working fine or not
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/console.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/console.png" width="20%">
 
   - Run the script by running a command in server
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/run.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/run.png" width="20%">
 
 - Install the dependencies that you will need in the process
 
@@ -39,31 +39,31 @@ after running the command, a package.json file will automatically built in serve
 
   - You can add these dependencies simply by running simple command in server terminal
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/depend.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/depend.png" width="20%">
 
 **Connection Building**
 
 - the below code is written to check if server is working or not in Index.js
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Connection.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Connection.png" width="20%">
 
 - That would be the output we get on running index.js
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/OUTPUT.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/OUTPUT.png" width="20%">
 
 - Installing another dependency i,e dev dependency that will help us to break the loop , when you will run the above code it will kept running and you have to terminate the whole process, so to avoid that we will be using **NODEMON DEPENDENCY**.
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/nodemon.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/nodemon.png" width="20%">
 
   - Now to activate the nodemon, you have to write a script in package.json
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/script.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/script.png" width="20%">
 
 **Creating API**
 
 - Now we are creating our First API
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/API.png)" >
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/API.png)" width="20%">
 
 - Now go to your server terminal and run the command
 
