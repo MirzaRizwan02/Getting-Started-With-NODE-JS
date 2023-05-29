@@ -24,7 +24,7 @@ after running the command, a package.json file will automatically built in serve
 
   - Run the script by running a command in server
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/run.png" width="20%">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/run.png" width="25%">
 
 - Install the dependencies that you will need in the process
 
