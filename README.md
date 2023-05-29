@@ -39,7 +39,7 @@ after running the command, a package.json file will automatically built in serve
 
   - You can add these dependencies simply by running simple command in server terminal
 
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/depend.png" width="30%">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/depend.png" width="40%">
 
 **Connection Building**
 
