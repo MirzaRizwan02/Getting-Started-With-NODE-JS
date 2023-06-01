@@ -95,3 +95,5 @@ after running the command, a package.json file will automatically built in serve
 ### ROUTE BUILDING
 
 - We will do routing now to manage multiple requests
+
+*Creating a folder name as "route"
