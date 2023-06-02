@@ -97,4 +97,6 @@ after running the command, a package.json file will automatically built in serve
 - We will do routing now to manage multiple requests
 
 **Creating a folder name as "route"<br>
+
 **Secondly create a file named as "auth.js" in route folder
+- You have to include the auth.js in your index.js
