@@ -96,9 +96,9 @@ after running the command, a package.json file will automatically built in serve
 
 - We will do routing now to manage multiple requests
 
-**Creating a folder name as "route"<br>
+### Creating a folder name as "route"<br>
 
-**Secondly create a file named as ## auth.js in route folder
+#### Secondly create a file named as auth.js in route folder
 
 - You have to include the auth.js in your index.js
-<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/hello%20world.png">
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/importauth.png">
