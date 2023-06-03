@@ -103,4 +103,8 @@ after running the command, a package.json file will automatically built in serve
 - You have to include the auth.js in your index.js
 <img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/importauth.png">
 
+- Here we will create another file named as user.js in the model folder, attaching the picture of root hierarchy below:
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/importauth.png">
+
 - Now further we will be writing the Signup API in auth.js
+-
