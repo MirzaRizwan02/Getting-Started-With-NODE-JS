@@ -108,3 +108,9 @@ after running the command, a package.json file will automatically built in serve
 
 ### Attaching the picture of root hierarchy below:
 <img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/folder.png">
+
+--------------------------------------------------------------------------------------------------
+
+### AUTH.JS
+
+
