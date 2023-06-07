@@ -16,3 +16,13 @@ In your flutter project make a folder at root named as server, and initialize yo
 
 after running the command, a package.json file will automatically built in server folder
 
+- Creating **Index.js** in server folder, you can change the name of **index.js** but you should change the **index.js** in **package.json** file first.
+
+  - You can try out a simple script to check if it is working fine or not
+
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/console.png" width="40%">
+
+  - Run the script by running a command in server
+
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/run.png" width="25%">
+
