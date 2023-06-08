@@ -17,3 +17,18 @@
 ### Attaching the picture of root hierarchy below:
 <img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/folder.png">
 
+--------------------------------------------------------------------------------------------------
+
+### AUTH.JS
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Authjs.png" width="50%">
+
+--------------------------------------------------------------------------------------------------
+
+### INDEX.JS
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Indexjs.png" width="50%">
+
+--------------------------------------------------------------------------------------------------
+
+### USER.JS
+<img src = "https://github.com/MirzaRizwan02/Getting-Started-With-NODE-JS/blob/main/Guide/Userjs.png" width="50%">
+
