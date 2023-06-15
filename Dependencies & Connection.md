@@ -6,7 +6,7 @@
 
   - You can check out for dependencies at [https://www.npmjs.com/](https://www.npmjs.com/)
 
-  - The first few dependencies that you need to download are:
+  - The first few dependencies that you need to download are :
 
     - http
     - express
